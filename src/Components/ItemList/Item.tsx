@@ -10,10 +10,6 @@ export function ItemList() {
     const [cart, setCart] = useState<Cart[]>([]);
 
     const handleBuy = async (item: Items) => {
-        if (resultBudget < item.price) {
-            return
-        }
-
         const result = await new ItemListController().handleBuy(item, cart)
 
         return setCart(result as Cart[])
