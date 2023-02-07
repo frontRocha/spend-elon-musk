@@ -1,46 +1,27 @@
-# Getting Started with Create React App
+<h1 align="center">Gastar Tudo</h1>
+<h3 align="center">Um site para simular gastos com o patrimônio de Elon Musk</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Apresentação</h2>
+<p>Este é um site divertido e engraçado, com o objetivo de simular o gasto do patrimônio fictício de Elon Musk. Aqui, você pode selecionar itens imaginários e ver o dinheiro diminuir a medida que você faz suas escolhas. Viva a experiência de simular o gasto de uma quantidade absurda de dinheiro.</p>
 
-## Available Scripts
+<h2>Tecnologias utilizadas</h2>
+<ul>
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>Tailwind CSS</li>
+</ul>
 
-In the project directory, you can run:
+<h2>Instalação</h2>
+<p>Para instalar este projeto, siga os seguintes passos:</p>
+<ol>
+  <li>Clone o repositório do Github</li>
+  <li>Navegue até a pasta do projeto no terminal</li>
+  <li>Execute o comando <code>npm install</code> ou <code>yarn add</code> para instalar as dependências</li>
+  <li>Execute o comando <code>npm start</code> ou <code>yarn start</code> para iniciar o projeto</li>
+</ol>
 
-### `npm start`
+<h2>Licença</h2>
+<p>Este projeto está disponível para uso livre e aberto a contribuições de todos.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h2>Inspiração</h2>
+<p>Este projeto foi inspirado em <a href="https://neal.fun/spend/">https://neal.fun/spend/</a>.</p>
