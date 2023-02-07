@@ -4,6 +4,11 @@
 <h2>Apresentação</h2>
 <p>Este é um site divertido e engraçado, com o objetivo de simular o gasto do patrimônio fictício de Elon Musk. Aqui, você pode selecionar itens imaginários e ver o dinheiro diminuir a medida que você faz suas escolhas. Viva a experiência de simular o gasto de uma quantidade absurda de dinheiro.</p>
 
+<h2>Illustração</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frontRocha/spend-elon-musk/master/src/Assets/illustration.PNG" alt="Illustração do projeto">
+</p>
+
 <h2>Tecnologias utilizadas</h2>
 <ul>
   <li>TypeScript</li>
