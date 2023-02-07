@@ -52,7 +52,7 @@ export function ItemList() {
                     </div>
                 ))}
             </div>
-            <h2 className="fixed bottom-0 left-0 mb-6 text-lg font-medium text-green-600 bg-green-200 py-2 px-3 rounded-lg">
+            <h2 className="fixed top-10 left-0 mb-6 text-sm sm:text-lg font-medium text-green-600 bg-green-200 py-2 px-3 rounded-lg">
                 Orçamento restante: {resultBudget.toLocaleString('en-US', { style: 'currency', currency: 'USD' })} USD
             </h2>
         </div>
