@@ -152,7 +152,7 @@ export const items = [
         "price": 2500,
         "name": "Horse",
         "img": horse
-    }, 
+    },
     {
         "id": "20",
         "name": "Rolex",

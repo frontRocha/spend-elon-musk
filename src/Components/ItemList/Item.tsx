@@ -49,7 +49,7 @@ export function ItemList() {
                 ))}
             </div>
             <h2 className="fixed top-10 left-0 mb-6 text-sm sm:text-lg font-medium text-green-600 bg-green-200 py-2 px-3 rounded-lg">
-                Orçamento restante: {resultBudget.toLocaleString('en-US', { style: 'currency', currency: 'USD' })} USD
+                Remaining budget: {resultBudget.toLocaleString('en-US', { style: 'currency', currency: 'USD' })} USD
             </h2>
         </div>
     );

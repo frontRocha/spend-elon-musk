@@ -8,7 +8,7 @@ export class ItemsListService {
         if (index === -1) {
             return [...cart, { ...item, quantity: 1 }];
         }
-           
+
         const updatedCart = [...cart];
         updatedCart[index].quantity++;
 
@@ -25,7 +25,7 @@ export class ItemsListService {
             } else {
                 updatedCart[index].quantity--;
             }
-            
+
             return updatedCart
         }
     }

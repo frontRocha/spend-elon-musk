@@ -9,7 +9,7 @@ export class ItemListController {
     public async handleRemove(item: Items, cart: Cart[]) {
         const result = new ItemsListService().removeItemToCart(item, cart)
 
-        if(result) {
+        if (result) {
             return result
         }
 
